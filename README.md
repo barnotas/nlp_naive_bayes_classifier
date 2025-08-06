@@ -1,1 +1,3 @@
-# nlp_naive_bayes_classifier
+# Project Title: Sentiment Classification of Movie Reviews Using Naive Bayes Text Classifier 
+This proeject implements a supervised learning approach for binary sentiment classification of moview reviews using the Naive Bayes classifier, a probabilistic model grounded in Bayes' Theorem. The goal is to determine whether a given movie review expresses a positive or negative sentiment based its textual content. 
+The Naive Bayes algorithm is particularly well-suited for text classification tasks due to its efficiency and relatively strong performance on high-dimensional data. It operates under the assumption of conditional independence between features (i.e., words), which simplifies computation and enables effective modeling even with limited training data.
